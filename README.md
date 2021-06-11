@@ -9,10 +9,14 @@ Pré-requisitos:
   ![image](https://user-images.githubusercontent.com/28758743/121741408-e17ee780-cad4-11eb-9853-2816820d460b.png)
 
   - Testando o acesso ao cluster k8s:
+  
   ![image](https://user-images.githubusercontent.com/28758743/121742450-37a05a80-cad6-11eb-8e60-524fbf224d04.png)
 
 
-  - Ter a imagem que usamos no bootcamp de docker, publicado no modo de acesso publico no seu repositório do docker hub 
+  - Ter a imagem que usamos no bootcamp de docker, publicado no modo de acesso publico no seu repositório do docker hub:
+  
+  ![image](https://user-images.githubusercontent.com/28758743/121742811-c01efb00-cad6-11eb-8d4e-1ad320622595.png)
+
 
 O objetivo desse repositório é prover os manifestos que vão ser utilizados para a subir nosso container gerado no bootcamp de docker no kubernetes.
 
