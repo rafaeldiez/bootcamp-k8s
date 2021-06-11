@@ -22,8 +22,9 @@ Pré-requisitos:
    ![image](https://user-images.githubusercontent.com/28758743/121743450-c366b680-cad7-11eb-8129-4f78e0d03a6f.png)
 
 
+# Instruções para subir a aplicação
 
-1 - O objetivo desse repositório é prover os manifestos que vão ser utilizados para a subir nosso container gerado no bootcamp de docker no kubernetes.
+O objetivo desse repositório é prover os manifestos que vão ser utilizados para a subir nosso container, gerado no **bootcamp de docker** no kubernetes.
 
   -  Manifesto para criar a estrutura de deploy:
 ```sh
@@ -40,4 +41,9 @@ Pré-requisitos:
 2-bootcamp-k8s-service.yaml
 ```
 
-Com a aplicação rodando, devemos usar o comando **kubectl port-forward**, para que possamos acessar nossa aplicação pelo navegador e ver o resultado final.
+Com a aplicação rodando, devemos usar o comando **kubectl port-forward svc/bootcamp-k8s 8080:80  -n bootcamp**, para que possamos acessar nossa aplicação pelo navegador e ver o resultado final.
+
+O objetivo final é termos acessado a aplicação pelo navegador, conforme exemplo abaixo:
+
+![image](https://user-images.githubusercontent.com/28758743/121746312-117db900-cadc-11eb-8993-bce750323a52.png)
+
