@@ -22,7 +22,11 @@ Pré-requisitos:
 O objetivo desse repositório é prover os manifestos que vão ser utilizados para a subir nosso container gerado no bootcamp de docker no kubernetes.
 
   -  Manifesto para criar a estrutura de deploy:
-  1-deploy-nginx-docker-new.yaml
-  
+```sh
+1-deploy-nginx-docker-new.yaml
+```
+    
   - Manifesto para criar o serviço "porta" de acesso a nossa aplicação
-  2-bootcamp-k8s-service.yaml 
+```sh
+2-bootcamp-k8s-service.yaml
+```
