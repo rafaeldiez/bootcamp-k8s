@@ -4,7 +4,7 @@ Pré-requisitos:
 
   - Ter o [Docker Desktop](https://www.docker.com/products/docker-desktop) instalado no seu desktop Windows.
   
-  - Habilitar o Kubernetes no Docker Desktop, conforme mostra a imagem abaixo:
+  - Habilitar o **Kubernetes** no **Docker Desktop**, conforme mostra a imagem abaixo:
 
    ![image](https://user-images.githubusercontent.com/28758743/121741408-e17ee780-cad4-11eb-9853-2816820d460b.png)
 
