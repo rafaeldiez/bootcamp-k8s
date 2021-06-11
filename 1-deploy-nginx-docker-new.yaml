@@ -74,7 +74,7 @@ spec:
         app: bootcamp-k8s
     spec:
       containers:
-      - image: rafaeldiez/bootcamp-nginx:v1
+      - image: userID/bootcamp-nginx:v1
         imagePullPolicy: IfNotPresent
         name: bootcamp-nginx
         resources: {}
