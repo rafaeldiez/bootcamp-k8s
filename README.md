@@ -15,6 +15,7 @@ Pré-requisitos:
    Com o acesso validado, crie o namespace **bootcamp** no cluster com o comando:
    
    **kubectl create ns bootcamp**
+   
 
   - Ter a imagem que usamos no bootcamp de docker, publicado no modo de acesso publico no seu repositório do docker hub:
   
