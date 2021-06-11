@@ -12,7 +12,7 @@ Pré-requisitos:
   
    ![image](https://user-images.githubusercontent.com/28758743/121742450-37a05a80-cad6-11eb-8e60-524fbf224d04.png)
    
-   Com o acesso validado, crie o namespace no cluster com o comando:
+   Com o acesso validado, crie o namespace **bootcamp** no cluster com o comando:
    
    **kubectl create ns bootcamp**
 
