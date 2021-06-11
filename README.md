@@ -6,7 +6,11 @@ Pré-requisitos:
   
   - Habilitar o Kubernetes no Docker Desktop, conforme mostra a imagem abaixo:
 
-![image](https://user-images.githubusercontent.com/28758743/121741408-e17ee780-cad4-11eb-9853-2816820d460b.png)
+  ![image](https://user-images.githubusercontent.com/28758743/121741408-e17ee780-cad4-11eb-9853-2816820d460b.png)
+
+  - Testando o acesso ao cluster k8s:
+  ![image](https://user-images.githubusercontent.com/28758743/121742450-37a05a80-cad6-11eb-8e60-524fbf224d04.png)
+
 
   - Ter a imagem que usamos no bootcamp de docker, publicado no modo de acesso publico no seu repositório do docker hub 
 
