@@ -47,7 +47,5 @@ Com a aplicação rodando, devemos usar o comando:
 
 O comando acima é uma das formas de acessar nossa aplicação pelo navegador.
 
-O objetivo final é termos acessado a aplicação pelo navegador, conforme exemplo abaixo:
-
 ![image](https://user-images.githubusercontent.com/28758743/121746312-117db900-cadc-11eb-8993-bce750323a52.png)
 
