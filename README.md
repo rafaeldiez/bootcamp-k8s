@@ -42,7 +42,7 @@ O objetivo desse repositório é prover os manifestos que vão ser utilizados pa
 
 Com a aplicação rodando, devemos usar o comando:
 
-**kubectl port-forward svc/bootcamp-k8s 8080:80  -n bootcamp**
+**kubectl port-forward svc/nginx-service 8080:80  -n bootcamp**
 
 O comando acima é uma das formas de acessar nossa aplicação pelo navegador.
 
