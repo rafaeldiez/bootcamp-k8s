@@ -33,10 +33,9 @@ O objetivo desse repositório é prover os manifestos que vão ser utilizados pa
 
 **OBS** - Após baixar os arquivos, devemos editar o manifesto **deploy-nginx-docker-new.yaml**, para informar qual a imagem que será utilizada no seu ambiente, aqui devemos apontar sua imagem que foi gerado no **bootcamp de docker**:
 
-![image](https://user-images.githubusercontent.com/28758743/121745238-8bad3e00-cada-11eb-9bbb-bfaf8e9941b9.png)
-
+![image](https://user-images.githubusercontent.com/28758743/122944664-64623680-d34e-11eb-9b71-10cf538c2ec5.png)
     
-  - Manifesto para criar o serviço "porta" de acesso a nossa aplicação
+ - Manifesto para criar o serviço "porta" de acesso a nossa aplicação
 ```sh
 2-bootcamp-service-nginx.yaml
 ```
