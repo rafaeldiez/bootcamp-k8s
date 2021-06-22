@@ -31,7 +31,7 @@ O objetivo desse repositório é prover os manifestos que vão ser utilizados pa
 1-bootcamp-deploy-nginx.yaml
 ```
 
-**OBS** - Após baixar os arquivos, devemos editar o manifesto **deploy-nginx-docker-new.yaml**, para informar qual a imagem que será utilizada no seu ambiente, aqui devemos apontar sua imagem que foi gerado no **bootcamp de docker**:
+**OBS** - Após baixar os arquivos, devemos editar o manifesto **1-bootcamp-deploy-nginx.yaml**, para informar qual a imagem que será utilizada no seu ambiente, aqui devemos apontar sua imagem que foi gerado no **bootcamp de docker**:
 
 ![image](https://user-images.githubusercontent.com/28758743/122944664-64623680-d34e-11eb-9b71-10cf538c2ec5.png)
     
