@@ -38,7 +38,7 @@ O objetivo desse repositório é prover os manifestos que vão ser utilizados pa
     
   - Manifesto para criar o serviço "porta" de acesso a nossa aplicação
 ```sh
-2-bootcamp-k8s-service.yaml
+2-bootcamp-service-nginx.yaml
 ```
 
 Com a aplicação rodando, devemos usar o comando:
