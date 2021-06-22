@@ -28,7 +28,7 @@ O objetivo desse repositório é prover os manifestos que vão ser utilizados pa
 
   -  Manifesto para criar a estrutura de deploy:
 ```sh
-1-deploy-nginx-docker-new.yaml
+1-bootcamp-deploy-nginx.yaml
 ```
 
 **OBS** - Após baixar os arquivos, devemos editar o manifesto **deploy-nginx-docker-new.yaml**, para informar qual a imagem que será utilizada no seu ambiente, aqui devemos apontar sua imagem que foi gerado no **bootcamp de docker**:
