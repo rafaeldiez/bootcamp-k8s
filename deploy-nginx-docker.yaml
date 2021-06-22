@@ -17,11 +17,9 @@ spec:
     spec:
       containers:
       - name: nginx-deploy
-        image: rafaeldiez/bootcamp-nginx:v1
+        image: UserID/ImageName
         ports:
         - containerPort: 80
-      imagePullSecrets:
-      - name: dockerhub
 ---
 apiVersion: v1
 kind: Service
